@@ -1,33 +1,13 @@
 {
-    "transaction": {"items":
-        [
-      {
+  "transaction" :{
+    "items": [
+    {
         "value": 0.001,
-        "date": "1517561072"
-      },
-      {
-          "value": 3,
         "date": "1517561072"
       },
       {
          "value": 0.001,
         "date": "1517563072"
-      },
-      {
-         "value": 0.201,
-        "date": "1517561072"
-      },
-      {
-         "value": 25,
-        "date": "1517561072"
-      },
-      {
-         "value": 0.001,
-        "date": "1517561072"
-      },
-      {
-         "value": 0.882,
-        "date": "1517562072"
       },
       {
          "value": 12,
@@ -41,23 +21,9 @@
          "value": 0.001,
         "date": "1517561072"
       }
-    ]
-   },
-    "total":10
-    },
-    "comments": [
-      {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-      },
-      {
-        "id": 2,
-        "body": "some comment",
-        "postId": 1
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+  ],
+  "TotalCount":120,
+"HasPreviousPage":false,
+"HasNextPage":true
   }
+}
